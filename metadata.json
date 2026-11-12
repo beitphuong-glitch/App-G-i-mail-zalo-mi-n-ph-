@@ -1,0 +1,6 @@
+{
+  "name": "Zalo & Gmail Bulk Sender",
+  "description": "Ứng dụng tạo mẫu và gửi Gmail, Zalo hàng loạt chuyên nghiệp, hỗ trợ cá nhân hóa biến động, quản lý danh bạ và trợ lý AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
